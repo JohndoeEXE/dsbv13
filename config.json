@@ -1,0 +1,18 @@
+{
+  "token": "MTM2Njc1NjU0ODI5ODQwNzk0Ng.G2zW9z.SaRQpPAW9bk0KMpSd4Z-3NXvUamUlI2VAY1ZBs",
+  "autoReplyMessage": "AI RESPONSE** **if female** are you messaging me to work? if so are you willing to verify on cam and how far can you go **OTHER INQUIRES** ill be with you soon",
+  "responseDelay": 3000,
+  "randomDelayRange": 2000,
+  "onlyFirstMessage": true,
+  "ignoreBots": true,
+  "keywordTriggers": [],
+  "maxRepliesPerHour": 100,
+  "enabledHours": {
+    "start": 9,
+    "end": 22
+  },
+  "blacklistedUsers": [],
+  "whitelistedUsers": [],
+  "port": 3000,
+  "keepAlive": false
+}
