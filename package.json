@@ -1,0 +1,29 @@
+{
+  "name": "discord-auto-reply-bot",
+  "version": "1.0.0",
+  "description": "Discord self-bot for automatic DM replies",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "auto-reply",
+    "selfbot"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.0.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
